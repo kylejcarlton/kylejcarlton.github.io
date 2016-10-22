@@ -77,9 +77,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kyle J Carlton"
-  avatar           : "bio-photo.png"
-  bio              : "I am an amazing person."
+  name             : "Tech it Yourself"
+  avatar           : "bio-photo.jpg"
+  bio              : "Open source software + hardware projects and ideas."
   location         : "Chicago"
   email            :
   uri              :
