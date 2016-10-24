@@ -1,4 +1,5 @@
 ---
+layout: single
 title:  "Hello World!"
 categories:
   - Hello World
