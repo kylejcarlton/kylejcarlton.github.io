@@ -1,5 +1,9 @@
 ---
 layout: single
+excerpt: ""
+author_profile: true
+header:
+  overlay_image: raspi.jpg
 title:  "Hello World!"
 categories:
   - Hello World
