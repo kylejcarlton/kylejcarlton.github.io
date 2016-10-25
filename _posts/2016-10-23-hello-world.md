@@ -1,6 +1,6 @@
 ---
 layout: single
-excerpt: ""
+excerpt: "Just got started with this project on [GitHub Pages]."
 author_profile: true
 header:
   overlay_image: raspi.jpg
