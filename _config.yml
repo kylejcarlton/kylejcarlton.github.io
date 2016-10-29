@@ -82,7 +82,7 @@ author:
   bio              : "Open source software + hardware projects and ideas."
   location         : "Chicago"
   email            :
-  uri              : "http://techiys.net"
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
@@ -90,7 +90,7 @@ author:
   facebook         :
   foursquare       :
   github           : kylejcarlton
-  google_plus      :
+  google_plus      : kylecarlton
   keybase          :
   instagram        : kylejcarlton
   lastfm           :
