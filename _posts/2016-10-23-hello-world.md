@@ -12,8 +12,6 @@ tags:
 ---
 
 Just got started with this project on [GitHub Pages]. I'd like to start using this platform instead of Tumblr @ [TiY Tumblr].
-You can find out more about me @ [kylejcarlton.me].
 
 [TiY Tumblr]: http://techiys.com
-[kylejcarlton.me]: http://kylejcarlton.me
 [GitHub Pages]: https://pages.github.com/
