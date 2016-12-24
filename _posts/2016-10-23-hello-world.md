@@ -2,6 +2,7 @@
 layout: single
 excerpt: "Just got started with this project on GitHub Pages..."
 author_profile: true
+permalink: /:categories/:year/:month/:day/:title/
 header:
   overlay_image: raspi.jpg
 title:  "Hello World!"
