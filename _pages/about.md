@@ -12,7 +12,7 @@ By day I'm an engineer for a medical device company. At night I enjoy DIY projec
 
 Work and recreation take me all over the globe, here's everywhere I've been.
 <center>
-<iframe src="https://www.google.com/maps/d/embed?mid=1sncJb5NJddWLFz8VvcUlm0X0R5U" width="533" height="400">
+<iframe src="https://www.google.com/maps/d/embed?mid=1sncJb5NJddWLFz8VvcUlm0X0R5U" width="400" height="300">
 </iframe></center>
 
 [Github Page]: https://pages.github.com/
