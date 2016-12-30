@@ -1,18 +1,15 @@
 ---
 layout: single
-excerpt: "Just got started with this project on GitHub Pages..."
+excerpt: "Moving TiY from Tumblr to GitHub Pages!"
 author_profile: true
 permalink: /:categories/:year/:month/:day/:title/
 header:
   overlay_image: raspi.jpg
 title:  "Hello World!"
-categories:
-  - Hello World
-tags:
-  - Hello World
 ---
 
-Just got started with this project on [GitHub Pages]. I'd like to start using this platform instead of Tumblr @ [TiY Tumblr].
+Moving [TiY] from [Tumblr] to [GitHub Pages]!
 
-[TiY Tumblr]: http://techiys.com
+[TiY]: http://techiys.com
+[Tumblr]: https://www.tumblr.com
 [GitHub Pages]: https://pages.github.com/
