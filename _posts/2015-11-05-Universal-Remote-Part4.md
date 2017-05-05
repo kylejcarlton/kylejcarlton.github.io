@@ -40,6 +40,7 @@ sudo ntpdate -u ntp.ubuntu.com
 sudo apt-get install lirc
 {% endhighlight %}
 - Modify <i>/etc/modules</i> and <i>/etc/lirc/hardware.conf</i> for the specific hardware being used:
+<br>
 <b>/etc/modules</b>
 {% highlight script%}
 lirc_dev    
