@@ -8,7 +8,7 @@ header:
 ---
 <center><img src="/images/profile.jpeg" style="border-radius: 90%;"></center>
 <br>
-By day I'm an engineer for a medical device company. At night I enjoy DIY projects of all kinds, riding my bike and live music. I started this [Github Page] to document my open source projects and ideas.
+By day I'm an engineer for a medical device company. At night I enjoy DiY projects of all kinds, riding my bike and live music. I started this [Github Page] to document my open source projects and ideas.
 
 Work and recreation take me all over the globe, here's everywhere I've been.
 
