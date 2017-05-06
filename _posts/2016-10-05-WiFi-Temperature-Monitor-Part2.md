@@ -11,7 +11,7 @@ tags:
 ---
 
 <br><br>
-![TMP36 Graph]({{ site.url }}/images/Google_Apps_Script_Temp.png )     
+![TMP36 Graph]({{ site.url }}/images/Google_Apps_Script_Temp.png ){: .align-center}     
 <br><br>
 
 Since writing the first WiFi temperature monitor post, I’ve implemented retrieving temperature values on a schedule, to generate a real-time dashboard. I came across this [Gadgets Apps Hacks Post], which utilizes [Google Apps Script’s] ability to connect to [External APIs] and record stock ticker values over time in [Google Sheets]. The method I used in the first part to write the temperature sensor value in a Sheet is more suited for a single import of a larger data set in JSON format. There is also a [tutorial from Particle] that uses [IFTTT] to log the data in a Sheet. Although the tutorial from Particle might be a little easier to implement, I chose to work solely with Google Apps Script; since I wanted to pull data from other APIs. I’ll use [WeatherUnderground] for the outside temperature and [Nest] for a comparison of inside temperature from another device.
@@ -20,7 +20,7 @@ For communication with my Nest Thermostat, I didn’t implement the [OAuth2.0] s
 
 Here are the results after a few days:
 
-<iframe width="697" height="431" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1ir8ENcChkleHsPGUWlmbGlXQQTnxPHI-o29nMX9jvO8/pubchart?oid=280457042&amp;format=interactive"></iframe>
+<iframe width="697" height="431" seamless frameborder="0" scrolling="no" style="display: block; margin: 0 auto" src="https://docs.google.com/spreadsheets/d/1ir8ENcChkleHsPGUWlmbGlXQQTnxPHI-o29nMX9jvO8/pubchart?oid=280457042&amp;format=interactive"></iframe>
 
 The [Google Sheet] is here (create a copy to view Script Editor and make changes) and I also posted the code as a [Gist here]. API keys, device ID’s etc. are all variables to be defined at the beginning of the Script.  
 

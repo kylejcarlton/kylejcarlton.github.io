@@ -19,7 +19,7 @@ With the hardware built the next step is getting the Raspberry Pi up and running
 Since I’d like to connect over WiFi I’ve added a [Belkin USB F7D2101]. For future development, I also added a [ORICO BTA-402 USB Bluetooth 4.0 Micro Adapter Dongle] for controlling a Play Station 3 using [GIMX].
 
 <br><br>
-![Universal Remote HW]({{ site.url}}/images/remote_build_wireless_com.png)
+![Universal Remote HW]({{ site.url}}/images/remote_build_wireless_com.png){: .align-center}
 <br><br>
 
 - With the Pi temporarily connected by Ethernet cable, I [set up the wireless connection via the command line] over SSH.    

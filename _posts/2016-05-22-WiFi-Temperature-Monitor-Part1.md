@@ -33,13 +33,13 @@ For my first project with the Photon, I created a wireless temperature monitor t
 Then the temperature can be calculated based on the voltage output from the TMP36 using <i>Temp °C = 100*(reading in V) - 50</i>.
 
 <br><br>
-![TMP36 Graph]({{ site.url }}/images/TMP36_Graph.png )     
+![TMP36 Graph]({{ site.url }}/images/TMP36_Graph.png ){: .align-center}     
 <br><br>
 
 After importing I also converted to Fahrenheit using <i>T(°F) = T(°C) × 1.8 + 32</i>. Here’s the final output in the Google Sheet using <b>ImportJSON(https://api.particle.io/v1/devices/UNIQUE_ID/analogvalue?access_token=UNIQUE_TOKEN)</b>:    
 
 <br><br>
-![TMP36 Graph]({{ site.url }}/images/TMP36_Gsheet.png )     
+![TMP36 Graph]({{ site.url }}/images/TMP36_Gsheet.png ){: .align-center}     
 <br><br>
 
 [Particle.io]: https://www.particle.io/

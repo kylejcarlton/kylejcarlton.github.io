@@ -12,8 +12,8 @@ tags:
 
 I’ve ordered all the parts to build a DIY universal remote following the directions at [opensourceuniversalremote.com].
 
-![Universal Remote HW]({{ site.url }}/images/Universal_Remote_HW.png)
-![Universal Remote SW]({{ site.url }}/images/Universal_Remote_SW.png)
+![Universal Remote HW]({{ site.url }}/images/Universal_Remote_HW.png){: .align-center}
+![Universal Remote SW]({{ site.url }}/images/Universal_Remote_SW.png){: .align-center}
 
 Source for images: [alexba.in]
 

@@ -21,11 +21,11 @@ Here’s a breakdown of costs:
 Total cost of power over that period of approximately 14,136 hours was calculated assuming $0.19 / kWh by taking the average over a one year period. The power consumption was approximated by recording usage with a [P3 Kill A Watt] over a ten day period and interpolating linearly.
 
 <br><br>
-![BTC Miner Power Usage]({{ site.url }}/images/BTC_Miner_Power_Usage.png)   
+![BTC Miner Power Usage]({{ site.url }}/images/BTC_Miner_Power_Usage.png){: .align-center}   
 <br><br>
 Thanks to the technology behind Bitcoin, you can see the full contents of the wallet where mining profits were deposited on [BlockChain.info] @ [1BsWqHJh5kwLNHZzj6Q6DGaxRZVTK9U9A6] and a graph over time.
 <br><br>
-![BTC Miner Profitability]({{ site.url }}/images/BTC_Miner_Profitability.png)   
+![BTC Miner Profitability]({{ site.url }}/images/BTC_Miner_Profitability.png){: .align-center}   
 <br><br>
 With the exchange rate of Bitcoins to USD at the time of writing this, the Return on Investment (ROI) with a balance of  0.24359921 BTC is about negative (-) $896. Breaking even would require the exchange rate to reach $3,844 USD / BTC; historically speaking the highest was around $1,100 in late 2013. Never say never though, here’s the current price from [CoinDesk].
 

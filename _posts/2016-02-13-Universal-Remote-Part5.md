@@ -10,7 +10,7 @@ tags:
   - Universal Remote
 ---
 <br><br>
-![Universal Remote HW]({{ site.url}}/images/Remote_Web_Interface.png)
+![Universal Remote HW]({{ site.url}}/images/Remote_Web_Interface.png){: .align-center}
 <br><br>
 In the last post I tested the IR receiver; next step verify the IR LEDs emit light. If you are lucky enough to have a remote in the database maintained @ [lirc.sourceforge.net/remotes/], you may not even need to record. None of these worked for my remotes, so I created custom config files for each remote. However, these are great for testing functionality. I found it easier to connect to the Raspberry Pi via FTP with [FileZilla] to move config files around than via SSH with [PuTTy]. This did require adjusting permissions using [chmod] on <i>/etc/lirc/lircd.conf</i> via SSH, to allow the Write operation.
 
@@ -122,7 +122,7 @@ sudo /etc/init.d/lirc start
 
 To finish of the hardware build I made a case out of Lego bricks, so it stays oriented vertically and has some protection.
 <br><br>
-![Universal Remote HW]({{ site.url}}/images/Remote_with_Lego_Case.png)
+![Universal Remote HW]({{ site.url}}/images/Remote_with_Lego_Case.png){: .align-center}
 <br>
 
 Now control of IR devices is possible from a website, next up controlling Bluetooth devices the same way using [GIMX].

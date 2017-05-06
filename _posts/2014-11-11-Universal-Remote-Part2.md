@@ -9,7 +9,7 @@ title:  "Universal Remote - Part 2"
 tags:
   - Universal Remote
 ---
-![Universal Remote HW]({{ site.url }}/images/Universal_Remote_Parts.png)
+![Universal Remote HW]({{ site.url }}/images/Universal_Remote_Parts.png){: .align-center}
 <br><br>
 I purchased the Prototyping Pi Plate directly from [adafruit], and the [Raspberry Pi from Amazon]. The IR Transmitters, Right Angle Mounts, Transistor, Resistor and IR Receiver from [Mouser]. The 22 AWG solid wire and soldering supplies will be obtained from [Fry’s].  
 <br>
@@ -28,7 +28,7 @@ Parts List:
 
 I’ll be building [this circuit] on the Adafruit Prototyping Pi Plate Kit for Raspberry Pi:
 <br><br>
-![Universal Remote HW]({{ site.url }}/images/Open-Source-Universal-Remote-CKT.png)
+![Universal Remote HW]({{ site.url }}/images/Open-Source-Universal-Remote-CKT.png){: .align-center}
 <br><br>
 Once complete the next step will be installing and configuring [LIRC].
 
