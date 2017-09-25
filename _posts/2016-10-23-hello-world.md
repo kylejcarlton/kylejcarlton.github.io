@@ -10,6 +10,6 @@ title:  "Hello World!"
 
 Moving [TiY] from [Tumblr] to [GitHub Pages]!
 
-[TiY]: http://techiys.com
+[TiY]: http://techityourself.tumblr.com/
 [Tumblr]: https://www.tumblr.com
 [GitHub Pages]: https://pages.github.com/
